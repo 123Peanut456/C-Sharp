@@ -1,0 +1,7 @@
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb

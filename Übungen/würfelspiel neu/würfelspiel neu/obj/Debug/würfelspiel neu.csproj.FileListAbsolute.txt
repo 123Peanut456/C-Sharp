@@ -1,0 +1,7 @@
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\würfelspiel neu\würfelspiel neu\obj\Debug\würfelspiel neu.csproj.AssemblyReference.cache
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\würfelspiel neu\würfelspiel neu\obj\Debug\würfelspiel neu.csproj.CoreCompileInputs.cache
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\würfelspiel neu\würfelspiel neu\bin\Debug\würfelspiel neu.exe.config
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\würfelspiel neu\würfelspiel neu\bin\Debug\würfelspiel neu.exe
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\würfelspiel neu\würfelspiel neu\bin\Debug\würfelspiel neu.pdb
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\würfelspiel neu\würfelspiel neu\obj\Debug\würfelspiel neu.exe
+C:\Users\winkelhoefer\OneDrive - Läpple Ausbildungs GmbH\Desktop\C#\Übungen\würfelspiel neu\würfelspiel neu\obj\Debug\würfelspiel neu.pdb

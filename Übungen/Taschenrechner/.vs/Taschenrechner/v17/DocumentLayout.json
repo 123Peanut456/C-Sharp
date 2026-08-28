@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\winkelhoefer\\OneDrive - L\u00E4pple Ausbildungs GmbH\\Desktop\\C#\\\u00DCbungen\\Taschenrechner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC7BBC66-59CA-417E-A1B3-A89944C2748C}|Taschenrechner\\Taschenrechner.csproj|c:\\users\\winkelhoefer\\onedrive - l\u00E4pple ausbildungs gmbh\\desktop\\c#\\\u00FCbungen\\taschenrechner\\taschenrechner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC7BBC66-59CA-417E-A1B3-A89944C2748C}|Taschenrechner\\Taschenrechner.csproj|solutionrelative:taschenrechner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\winkelhoefer\\OneDrive - L\u00E4pple Ausbildungs GmbH\\Desktop\\C#\\\u00DCbungen\\Taschenrechner\\Taschenrechner\\Program.cs",
+              "RelativeDocumentMoniker": "Taschenrechner\\Program.cs",
+              "ToolTip": "C:\\Users\\winkelhoefer\\OneDrive - L\u00E4pple Ausbildungs GmbH\\Desktop\\C#\\\u00DCbungen\\Taschenrechner\\Taschenrechner\\Program.cs",
+              "RelativeToolTip": "Taschenrechner\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T08:53:59.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
